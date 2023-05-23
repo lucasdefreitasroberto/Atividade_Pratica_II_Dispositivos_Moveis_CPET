@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/23 19:49:40.000.595,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/23 19:50:09.000.205,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\99Coders\Posts\263 - Criando um menu de ação animado ------\Fontes\UnitPrincipal.pas</Transaction>
+    <Transaction>2021/08/23 19:50:09.000.205,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\99Coders\Posts\263 - Criando um menu de ação animado ------\Fontes\UnitPrincipal.fmx</Transaction>
+    <Transaction>2021/08/23 19:50:29.000.737,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\99Coders\Posts\263 - Criando um menu de ação animado ------\Fontes\Menu.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacMini iOSSimulator="iPhone5"/>
+		<NoProfile Android="5200711f02614531"/>
+	</ActiveMobileDevice>
+</BorlandProject>
